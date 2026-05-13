@@ -1,1 +1,0 @@
-# JavaScript-Game-Tutorial-with-HTML-Canvas
